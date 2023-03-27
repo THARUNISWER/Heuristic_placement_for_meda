@@ -1,0 +1,10 @@
+size 1 -> place in 2
+size 2 -> place in 2
+size 3 -> place in 3
+size 4 -> place in 2
+size 5 -> place in 5
+size 6 -> place in 3
+size 7 -> place in 3
+size 8 -> place in 2, 3
+size 9 -> place in 3
+size 10 -> place in 5
